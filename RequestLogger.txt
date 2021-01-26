@@ -479,3 +479,12 @@ Fri Jan 08 2021 15:04:27 GMT+0530 (India Standard Time) POST /create
 Fri Jan 08 2021 15:13:40 GMT+0530 (India Standard Time) GET /fetchBalance/7010620038
 Fri Jan 08 2021 16:24:57 GMT+0530 (India Standard Time) POST /login/
 Fri Jan 08 2021 16:25:11 GMT+0530 (India Standard Time) GET /fetchBalance/7010620038
+Tue Jan 12 2021 12:05:16 GMT+0530 (India Standard Time) GET /create
+Tue Jan 12 2021 12:05:17 GMT+0530 (India Standard Time) GET /favicon.ico
+Tue Jan 12 2021 12:05:43 GMT+0530 (India Standard Time) GET /fetchTransferHistory/9087543210
+Tue Jan 12 2021 12:05:43 GMT+0530 (India Standard Time) GET /favicon.ico
+Tue Jan 12 2021 12:06:33 GMT+0530 (India Standard Time) POST /login
+Tue Jan 19 2021 19:38:09 GMT+0530 (India Standard Time) GET /fetchTransferHistory/7010620038
+Tue Jan 19 2021 19:38:09 GMT+0530 (India Standard Time) GET /favicon.ico
+Tue Jan 19 2021 19:38:32 GMT+0530 (India Standard Time) GET /fetchTransferHistory/7010620038
+Tue Jan 19 2021 19:38:32 GMT+0530 (India Standard Time) GET /favicon.ico

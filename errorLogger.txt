@@ -194,3 +194,9 @@ TypeError: Cannot read property 'accDetails' of undefined
 TypeError: Cannot read property 'accDetails' of undefined
 Error: Invalid Account Number
 Error: Authentication Failed.. Please check email and password entered
+Error: Invalid Path
+Error: Invalid Path
+Error: Invalid Path
+Error: Authentication Failed.. Please check email and password entered
+Error: Invalid Path
+Error: Invalid Path
